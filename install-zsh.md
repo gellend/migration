@@ -44,8 +44,15 @@
 
 6.  **Apply all changes**
 
-    `omz reload`
+    ```bash
+    omz reload
 
-7.  **Checkout the official Cheatsheet**
+    ```
+
+7.  **Log out**
+
+    Don't forget to log out so that the changes takes effect
+
+8.  **Checkout the official Cheatsheet**
 
     [Cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
